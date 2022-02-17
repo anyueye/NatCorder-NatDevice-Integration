@@ -1,23 +1,23 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{e6b53e2a-dd26-ea84-3925-8a564f72cbdd}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NatSuite.Recorders", "NatSuite.Recorders.csproj", "{9955cd4e-d4b7-e7f3-bdef-faa324f7a9c8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NatSuite.Devices", "NatSuite.Devices.csproj", "{a75f6b09-4e0d-baf2-08e8-1e26826ffec1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{e6b53e2a-dd26-ea84-3925-8a564f72cbdd}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{e6b53e2a-dd26-ea84-3925-8a564f72cbdd}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{e6b53e2a-dd26-ea84-3925-8a564f72cbdd}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9955cd4e-d4b7-e7f3-bdef-faa324f7a9c8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{9955cd4e-d4b7-e7f3-bdef-faa324f7a9c8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{a75f6b09-4e0d-baf2-08e8-1e26826ffec1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{a75f6b09-4e0d-baf2-08e8-1e26826ffec1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{e6b53e2a-dd26-ea84-3925-8a564f72cbdd}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{e6b53e2a-dd26-ea84-3925-8a564f72cbdd}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -4,9 +4,9 @@ This is an example project which illustrates integrating the NatCorder video rec
 *ILLUSTRATION*.
 
 ## Requirements
-- Unity 2019.2+
-- NatCorder 1.7.3+
-- NatDevice 1.0.3+
+- Unity 2020.3+
+- NatCorder 1.8+
+- NatDevice 1.2+
 
 ## Setup Instructions
 - Download and open the project in Unity.

@@ -8,9 +8,11 @@ obj/
 .gradle/
 .vs/
 
-# NatSuite API's
+# NatML
 Assets/NatSuite/
 Assets/NatSuite.meta
+Assets/NatML/
+Assets/NatML.meta
 
 # Recordings
 recording_*
